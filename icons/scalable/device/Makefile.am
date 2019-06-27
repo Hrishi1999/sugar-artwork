@@ -3,6 +3,8 @@ category=device
 icondir = $(datadir)/icons/sugar/$(iconsize)/$(category)
 
 icon_DATA =				\
+	adult-disk50.svg	\
+	adult-disk90.svg	\
 	backup.svg			\
 	backup-backup.svg		\
 	backup-restore.svg		\
@@ -50,6 +52,9 @@ icon_DATA =				\
 	drive.svg			\
 	drive-harddisk.svg		\
 	drive-harddisk-usb.svg		\
+	embryo.svg				\
+	embryo-disk50.svg				\
+	embryo-disk90.svg				\
 	female-0.svg			\
 	female-1.svg			\
 	female-2.svg			\
@@ -116,6 +121,9 @@ icon_DATA =				\
 	speaker-muted-033.svg		\
 	speaker-muted-066.svg		\
 	speaker-muted-100.svg		\
+	teen.svg					\
+	teen-disk50.svg				\
+	teen-disk90.svg				\
 	touchpad-capacitive.svg		\
 	touchpad-resistive.svg		\
 	user-documents.svg
